@@ -1,4 +1,4 @@
-package com.epam.rd.autotasks.springstatefulcalc;
+package com.epam.rd.autotasks.springstatefulcalc.init;
 
 import org.springframework.web.WebApplicationInitializer;
 import org.springframework.web.context.ContextLoaderListener;
